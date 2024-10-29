@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Martins Ugwu"
   avatar : "/assets/images/profile_photo.JPG"
-  bio    : "Technical Advisor on EO and GIS Analysis <br /> Office of Executive Director, Rural Electrification Agency of Nigeria"
+  bio    : "EO*GI | GeoAI | Software Engineering<br /> Abuja, Nigeria"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
