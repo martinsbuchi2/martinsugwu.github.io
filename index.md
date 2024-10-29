@@ -18,11 +18,11 @@ has resulted in significant cost savings for Nigeria's energy sector, particular
 ### Events & Engagements
 * **November 2024:** Excited to enroll for **Cloud Computing and algorithms for EO analyses**. This **[EO Africa (Research & Development Facility)](https://www.eoafrica-rd.org/)** course will provide hands-on experience with cloud computing platforms and significantly improve my ability to handle large-scale EO datasets and enhance data-driven decision-making 
 
-* **Januray 2024:** Our OpenET benchmark paper, where I'm a co-author, is published at [Nature Water](https://www.nature.com/articles/s44221-023-00181-7), offering rigorous assesmsnet of satellite-derived evapotranspiration for resources management.
+<!-- * **Januray 2024:** Our OpenET benchmark paper, where I'm a co-author, is published at [Nature Water](https://www.nature.com/articles/s44221-023-00181-7), offering rigorous assesmsnet of satellite-derived evapotranspiration for resources management.
 * **December 2023:** For the second year in a row, hosted our innovative session on "Emerging Machine Learning Approaches for Process Understanding in Ecosystem Sciences" at AGU.
 * **December 2023:** Presented our CEDAR-GPP dataset at the AGU, offering vital spatiotemporal estimates of GPP that incorporates the CO2 fertilization effect.
 * **October 2023:** Our preprint, “CEDAR-GPP: Spatiotemporally Upscaled Estimates of Gross Primary Productivity Incorporating CO2 Fertilization,” is now under discussion at _[Earth System Science Data](https://essd.copernicus.org/preprints/essd-2023-337/)_.
 * **September 2023:** Excited to announce our preprint, “Using Automated Machine Learning for the Upscaling of Gross Primary Productivity,” is currently under discussion at _[Biogeosciences](https://bg.copernicus.org/preprints/bg-2023-141/)_.
 * **August 2023:** Presented our recent findings on atmospheric CO2 impacts on global photosynthesis at the _ESA Annual Meeting_ in Portland, Oregon.
 * **July 2023:** Delivered a presentation on our work and perspectives on high-resolution satellite LAI data products at _IGARSS 2023_ in Pasadena, CA.
-* **June 2023:** A team of master's students under my guidance presented our collaborative work, _"Upscaling Global Hourly GPP with Temporal Fusion Transformer,"_ at the CVPR MultiEarth 2023 Workshop. [paper](link)
+* **June 2023:** A team of master's students under my guidance presented our collaborative work, _"Upscaling Global Hourly GPP with Temporal Fusion Transformer,"_ at the CVPR MultiEarth 2023 Workshop. [paper](link) -->
