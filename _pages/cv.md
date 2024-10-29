@@ -7,51 +7,45 @@ classes: wide
 layout: single
 header:
     overlay_image: /assets/images/header_photo_small.jpg
-    caption: Greak Smoky National Park
+    caption: Checkout my CV!
 ---
 
 ### Education
 
-`2020`
-Ph.D. in Geography, University of Wisconsin-Madison
-
-`2018`
-M.S. in Computer Sciences, University of Wisconsin-Madison
-
-`2013`
-M.S. in Environment and Resources, University of Wisconsin-Madison
-
-`2011`
-B.S. in Geographical Information System, Beijing Normal University
+`2012 - 2017`
+B. Tech. in Environment Technology, Federal University of Technology Owerri
 
 
 ### Profesional Experience
 
-`2021-present`
-Postdoctoral Researcher (Advisor: Trevor Keenan), University of California, Berkeley
+`2023-present`
+Technical Advisor on EO & GIS Analysis, Office of the Executive Director, Technical Services, [Rural Electrification Agency of Nigeria](https://rea.gov.ng/) | `Abuja, Nigeria`
 
-`2020-2021`
-Postdoctoral Fellow (Advisor: Feng Gao, Martha Anderson), USDA-ARS, Hydrology and Remote Sensing Laboratory
+`2022-2023`
+National Expert - Geodata Consultant, [INTEGRATION Consulting Group](https://integration.org/environment-energy/) | `Remote`
 
-`2019-2020`
-Research Scientist, Agrograph
+`2019-2022`
+GIS Instructor, [Gpro Group](https://goldenpro.group/) | `Abuja, Nigeria`
 
 `2018-2019`
-Research Assistant, OpenET Project
+Graduate Intern, [Nasarawa Urban Development Board](https://nasarawastate.gov.ng/nasarawa-state-urban-development-board/) | `Nasarawa, Nigeria`
+
+`2017`
+Research Intern, [National Space Research and Development Agency](https://central.nasrda.gov.ng/) | `Abuja, Nigeria`
 
 
 ### Grants and Awards
 
-`2020-2021`
-SCINet Fellowship, USDA, Agricultural Research Service 
+`2019`
+Tony Elumelun Foundation, TEF Entrepreurship Programme
 
-`2020`
-Olmstead Award for Outstanding Publication, Geography, UW-Madison
+`2017`
+Enugu Scholarship Award
 
-`2018`
-Best Poster Award, UCGIS Symposium and CaGIS AutoCarto
+`2013 - 2016`
+Federal Government Scholarship, Undergraduate Scholarship
 
-`2012-2015`
-NASA Earth and Space Science Fellowship
+`2013 - 2015`
+MTN Foundation Scholarship, Undergraduate Scholarship
 
 
