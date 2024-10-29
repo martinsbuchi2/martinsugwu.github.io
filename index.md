@@ -9,9 +9,9 @@ header:
 excerpt: ''
 ---
 
-I’m an experienced Remote Sensing, GIS, and full-stack software developer, with a proven track record of leveraging Copernicus data and EO*GI services to support informed decision-making. I am eager to further my career through a fully funded scholarship, aiming to deepen my expertise in geospatial technology and Earth observation while focusing on applying programming tools to enhance analytical processes and operational efficiency.
+I’m experienced Remote Sensing, GIS, and full-stack software developer, with a proven track record of leveraging Copernicus data and EO*GI services to support informed decision-making. I am eager to further my career through a fully funded scholarship, aiming to deepen my expertise in geospatial technology and Earth observation while focusing on applying programming tools to enhance analytical processes and operational efficiency.
  
-<div style="background-color: grey; padding: 10px;"> My work
+<div style="background-color: ; padding: 10px;"> My work
 has resulted in significant cost savings for Nigeria's energy sector, particularly by leveraging satellite remote sensing, GIS, AI and machine learning to implement optimized, least-cost geospatial solutions for electrification of underserved and unserved communities. Since joining the Rural Electrification Agency (REA) as a Technical Advisor on Geodata Analysis, my work has been supported by various EO technologies across multiple areas, including the planning, monitoring, and evaluation (M&E) of various renewable energy projects. This support is key in the deployment of 56 solar mini-grids (14 MW), 6 EV charging stations, 497,000 solar home systems, and 35,000 solar streetlights, extending the national grid by 2,000 km and benefiting 1.5 million people.
  </div> 
 
