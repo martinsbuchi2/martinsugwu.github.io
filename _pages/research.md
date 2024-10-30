@@ -5,9 +5,9 @@ type: page
 classes: wide
 layout: single
 title: "Research & Projects"
-header:
-    overlay_image: /assets/images/research.jpg
-    caption: Otamiri River
+# header:
+#     overlay_image: /assets/images/research.jpg
+#     caption: Otamiri River
 
 feature_row1:
   - image_path: assets/images/photosynthesis_CAS.png
