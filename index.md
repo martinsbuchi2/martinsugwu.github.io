@@ -17,15 +17,18 @@ has resulted in significant cost savings for Nigeria's energy sector, particular
 
 ### Events & Involvement in SDG 7 & 13 Related Activities
 
- `2024`
+ **`2024`**
 
 * **November - December:** Excited to enroll for **Cloud Computing and algorithms for EO analyses**. This **[EO Africa (Research & Development Facility)](https://www.eoafrica-rd.org/)** course will provide hands-on experience with cloud computing platforms and significantly improve my ability to handle large-scale EO datasets and enhance data-driven decision-making.
-* **`September:** Participated in the 2024 Environmental Conference tagged: Harmony in Sustainability, Nurturing Environmental Visionaries.
+* **September:** Participated in the **2024 Environmental Conference** tagged: *Harmony in Sustainability, Nurturing Environmental Visionaries*.
+* **June:** Participated and Successfully Completed the **"Uncertainty Analysis for Energy System Studies"** course, held by **EIT HEI Initiative** and Organized by the **Technical University of Denmark**.
 
-`2023`
+**`2023`**
 
-* **November:** Completed the VIDA software training on Nigeria Energy Geospatial Platform (DARES)
-* **October:** Joined the Sixth Edition of The Social Town Talk Series - **International Carbon Conference** supported by Neem Software held on 07-08 October 2023
+* **December:** Completed the 13-week **Global Youth Climate Training**, through the **Global Youth Coalition**
+* **November:** Completed the **VIDA** software training on **Nigeria Energy Geospatial Platform** for **Distributed Access to Renewable Energy Scale-up (DARES)**.
+* **November:** **NASRDA GIS Day Celebration**, Theme: *GIS for Executives*
+* **October:** Joined the Sixth Edition of **The Social Town Talk Series** - **International Carbon Conference** supported by **Neem Software**.
 
 
 
