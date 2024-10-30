@@ -16,7 +16,7 @@
 title: Martins Ugwu
 email: martinsbuchie@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm an experienced Remote Sensing, GIS, and full-stack software developer, with a proven track record of leveraging Copernicus data and EO*GI services to support informed decision-making. I am eager to further my career through a fully funded scholarship, aiming to deepen my expertise in geospatial technology and Earth observation while focusing on applying programming tools to enhance analytical processes and operational efficiency.
+  I'm experienced Remote Sensing, GIS, and full-stack software developer, with a proven track record of leveraging Copernicus data and EO*GI services to support informed decision-making. I am eager to further my career through a fully funded scholarship, aiming to deepen my expertise in geospatial technology and Earth observation while focusing on applying programming tools to enhance analytical processes and operational efficiency.
 # twitter_username: username
 github_username: martinsbuchi2
 minimal_mistakes_skin: default
@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Martins Ugwu"
+  name   : "Martins I. Ugwu"
   avatar : "/assets/images/profile_photo.JPG"
   bio    : "EO*GIS Software Engineering <br />   <br /> SDG 7 & 13 <br />  <br /> 📍Nigeria"
   links:
