@@ -8,9 +8,7 @@ layout: single
 header:
     overlay_image: /assets/images/header_photo.jpeg
     caption: Greak Smoky National Park
-
 ---
-
 ## Publications
   
 A list is also available @[Google Scholar](https://scholar.google.com/citations?hl=en&user=h0Xg90gAAAAJ); <sup>*</sup> denotes corresponding author.

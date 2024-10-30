@@ -1,14 +1,16 @@
 ---
-title: "Hello!"
+permalink: /sdg/
+title: "Conferences, Courses & Training"
 author_profile: false
-layout: single
+type: page
 classes: wide
+layout: single
 header:
     overlay_image: /assets/images/header_photo_small.jpg
-    caption: Welcome to my page 
-excerpt: ''
+    caption: 2021 GIS Day Celebration!
 ---
-### Conferences Attended & Involvements in SDG 7 & 13 Related Activities
+### [See Associated Certificates & Recognitions](https://drive.google.com/file/d/1RHp71xfsW_uHDJtACXqliOICnyUUf80X/view?usp=sharing)
+### Personal Development & SDG Involvement: *Conferences, Courses & Training*
 
  **`2024:`**
 
