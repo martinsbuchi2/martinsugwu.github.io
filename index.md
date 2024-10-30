@@ -15,8 +15,22 @@ I’m experienced Remote Sensing, GIS, and full-stack software developer, with a
 has resulted in significant cost savings for Nigeria's energy sector, particularly by leveraging satellite remote sensing, GIS, AI and machine learning to implement optimized, least-cost geospatial solutions for electrification of underserved and unserved communities. Since joining the Rural Electrification Agency (REA) as a Technical Advisor on Geodata Analysis, my work has been supported by various EO technologies across multiple areas, including the planning, monitoring, and evaluation (M&E) of various renewable energy projects. This support is key in the deployment of 56 solar mini-grids (14 MW), 6 EV charging stations, 497,000 solar home systems, and 35,000 solar streetlights, extending the national grid by 2,000 km and benefiting 1.5 million people.
  </div> 
 
-### Events & Engagements
-* **November 2024:** Excited to enroll for **Cloud Computing and algorithms for EO analyses**. This **[EO Africa (Research & Development Facility)](https://www.eoafrica-rd.org/)** course will provide hands-on experience with cloud computing platforms and significantly improve my ability to handle large-scale EO datasets and enhance data-driven decision-making 
+### Events & Involvement in SDG 7 & 13 Related Activities
+
+ `2024`
+
+* **November - December:** Excited to enroll for **Cloud Computing and algorithms for EO analyses**. This **[EO Africa (Research & Development Facility)](https://www.eoafrica-rd.org/)** course will provide hands-on experience with cloud computing platforms and significantly improve my ability to handle large-scale EO datasets and enhance data-driven decision-making.
+* **`September:** Participated in the 2024 Environmental Conference tagged: Harmony in Sustainability, Nurturing Environmental Visionaries.
+
+`2023`
+
+* **November:** Completed the VIDA software training on Nigeria Energy Geospatial Platform (DARES)
+* **October:** Joined the Sixth Edition of The Social Town Talk Series - **International Carbon Conference** supported by Neem Software held on 07-08 October 2023
+
+
+
+
+
 
 <!-- * **Januray 2024:** Our OpenET benchmark paper, where I'm a co-author, is published at [Nature Water](https://www.nature.com/articles/s44221-023-00181-7), offering rigorous assesmsnet of satellite-derived evapotranspiration for resources management.
 * **December 2023:** For the second year in a row, hosted our innovative session on "Emerging Machine Learning Approaches for Process Understanding in Ecosystem Sciences" at AGU.

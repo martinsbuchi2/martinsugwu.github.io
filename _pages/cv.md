@@ -60,7 +60,7 @@ GIS Day Conference (NASRDA)
 `2017 - date`
 World Environment Day Conference
 
-### Networks AND Membership
+### Networks and Membership
 
 `2024 – date`
 [EO Africa Community](https://www.eoafrica-rd.org/eo-africa-community/) - African Framework for Research Innovation, Communities and Applications in Earth Observation
