@@ -9,22 +9,24 @@ header:
 excerpt: ''
 ---
 
-I’m experienced Remote Sensing, GIS, and full-stack software developer, with a proven track record of leveraging Copernicus data and EO*GI services to support informed decision-making. I am eager to further my career through a fully funded scholarship, aiming to deepen my expertise in geospatial technology and Earth observation while focusing on applying programming tools to enhance analytical processes and operational efficiency.
+I’m experienced Remote Sensing, GIS, and full-stack software developer, with a proven track record of leveraging Copernicus data and EO*GI services to support informed decision-making. 
+
+I am eager to further my career through a fully funded scholarship, aiming to deepen my expertise in geospatial technology and Earth observation while focusing on applying programming tools to enhance analytical processes and operational efficiency.
  
 <div style="background-color: ; padding: 10px;"> My work
 has resulted in significant cost savings for Nigeria's energy sector, particularly by leveraging satellite remote sensing, GIS, AI and machine learning to implement optimized, least-cost geospatial solutions for electrification of underserved and unserved communities. Since joining the Rural Electrification Agency (REA) as a Technical Advisor on Geodata Analysis, my work has been supported by various EO technologies across multiple areas, including the planning, monitoring, and evaluation (M&E) of various renewable energy projects. This support is key in the deployment of 56 solar mini-grids (14 MW), 6 EV charging stations, 497,000 solar home systems, and 35,000 solar streetlights, extending the national grid by 2,000 km and benefiting 1.5 million people.
  </div> 
 
-### Events & Involvement in SDG 7 & 13 Related Activities
+### Conferences Attended & Involvements in SDG 7 & 13 Related Activities
 
- **`2024`**
+ **`2024:`**
 
 * **November - December:** Excited to enroll for **Cloud Computing and algorithms for EO analyses**. This **[EO Africa (Research & Development Facility)](https://www.eoafrica-rd.org/)** course will provide hands-on experience with cloud computing platforms and significantly improve my ability to handle large-scale EO datasets and enhance data-driven decision-making.
 * **September:** Participated in the **2024 Environmental Conference** tagged: *Harmony in Sustainability, Nurturing Environmental Visionaries*.
 * **June:** Participated and Successfully Completed the **"Uncertainty Analysis for Energy System Studies"** course, held by **EIT HEI Initiative** and Organized by the **Technical University of Denmark**.
 * **June:** The **United Nations Environment Programme (UNEP)** recognition for joining the **#GenerationRestoration** movement and making **World Environment Day 2024** a huge success.
 
-**`2023`**
+**`2023:`**
 
 * **December:** Completed the 13-week **Global Youth Climate Training**, through the **Global Youth Coalition**
 * **November:** Completed the **VIDA** software training on **Nigeria Energy Geospatial Platform** for *Distributed Access to Renewable Energy Scale-up (DARES)*.
