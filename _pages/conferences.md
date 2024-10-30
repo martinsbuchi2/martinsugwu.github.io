@@ -1,5 +1,5 @@
 ---
-permalink: /sdg/
+permalink: /conferences/
 title: "Conferences, Courses & Training"
 author_profile: false
 type: page
