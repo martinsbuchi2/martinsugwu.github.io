@@ -1,6 +1,6 @@
 ---
-permalink: /publications/
-title: "Publications"
+permalink: /techstack/
+title: "Tech Stack"
 author_profile: false
 type: page
 classes: wide
@@ -9,7 +9,7 @@ header:
     overlay_image: /assets/images/header_photo.jpeg
     caption: Greak Smoky National Park
 ---
-## Publications
+## Python
   
 A list is also available @[Google Scholar](https://scholar.google.com/citations?hl=en&user=h0Xg90gAAAAJ); <sup>*</sup> denotes corresponding author.
 
@@ -17,11 +17,15 @@ A list is also available @[Google Scholar](https://scholar.google.com/citations?
 
 [18] Volk, J.M., et al. [including **Kang, Y.**] (2024): Assessing the accuracy of OpenET satellite-based evapotranspiration data to support water resource and land management applications. Nat Water 1–13. [https://doi.org/10.1038/s44221-023-00181-7](https://doi.org/10.1038/s44221-023-00181-7)  
 
+## JavaScript
+
 [17] **Kang, Y.<sup>*</sup>**, Ozdogan, M., Gao, F., Anderson, M., and Keenan, T. (2023): An Operational Data-Driven Framework For Developing High-Resolution Leaf Area Index Products, in: IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium, IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium, 2185–2187, [https://doi.org/10.1109/IGARSS52108.2023.10283064]( https://doi.org/10.1109/IGARSS52108.2023.10283064)
 
 [16] Zhou, J., Yang, Q., Liu, L., **Kang, Y.**, Jia, X., Chen, M., Ghosh, R., Xu, S., Jiang, C., Guan, K., Kumar, V., and Jin, Z. (2023): A deep transfer learning framework for mapping high spatiotemporal resolution LAI, ISPRS Journal of Photogrammetry and Remote Sensing, 206, 30–48, [https://doi.org/10.1016/j.isprsjprs.2023.10.017](https://doi.org/10.1016/j.isprsjprs.2023.10.017)
 
 [15] **Kang, Y.<sup>*</sup>**, Gaber, M., Bassiouni, M., Lu, X., and Keenan, T (2023).: CEDAR-GPP: spatiotemporally upscaled estimates of gross primary productivity incorporating CO2 fertilization. Earth Syst. Sci. Data Discuss. [preprint], [https://doi.org/10.5194/essd-2023-337](https://doi.org/10.5194/essd-2023-337)   
+
+## AI Career Essentials
 
 [14] Gaber, M., **Kang, Y.<sup>*</sup>**, Schurgers, G., and Keenan, T (2023).: Using automated machine learning for the upscaling of gross primary productivity, Biogeosciences Discuss. [preprint], [https://doi.org/10.5194/bg-2023-141](https://doi.org/10.5194/bg-2023-141),    
 
@@ -31,9 +35,13 @@ A list is also available @[Google Scholar](https://scholar.google.com/citations?
 
 [11] **Kang, Y.<sup>*</sup>**, Özdoğan, M, Gao, F., Anderson, M., White, W., Yang, Y., Yang, Y., Erickson, T. (2021) A data-driven approach to estimate Leaf Area Index for Landsat images over the contiguous US. Remote Sensing of Environment 258, 112383. [https://doi.org/10.1016/j.rse.2021.112408](https://doi.org/10.1016/j.rse.2021.112408)  
 
+## Cloud Computing for Earth Observation
+
 [10] Melton, F. S., et al. [including **Kang, Y.**]. (2021). OpenET: Filling a Critical Data Gap in Water Management for the Western United States. JAWRA Journal of the American Water Resources Association, 1–24. [https://doi.org/10.1111/1752-1688.12956](https://doi.org/10.1111/1752-1688.12956)  
 
 [9] Ma, Y., Zhang, Z., **Kang, Y.**, Özdoğan. (2021) Corn yield prediction and uncertainty analysis based on remotely sensed variables using a Bayesian neural network approach. Remote Sensing of Environment 259, 112408. [https://doi.org/10.1088/1748-9326/ab7df9](https://doi.org/10.1088/1748-9326/ab7df9)  
+
+## GIS Software
 
 [8] **Kang, Y.<sup>*</sup>**, Ozdogan, M., Zhu, X., Ye, Z., Hain, C.R., Anderson, M.C. (2020). Comparative assessment of environmental variables and machine learning algorithms for maize yield prediction in the US Midwest. Environ. Res. Lett. 15:064005. [https://doi.org/10.1088/1748-9326/ab7df9](https://doi.org/10.1088/1748-9326/ab7df9) ([IOP Top Cited Paper Award](https://ioppublishing.org/north-america-top-cited-paper-award/))
 

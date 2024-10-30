@@ -3,10 +3,10 @@ main:
     url: /
   - title: "Research & Projects"
     url: /research/
-  - title: "Publications"
-    url: /publications/
+  - title: "Tech Stack"
+    url: /techstack/
   - title: "CV"
     url: /cv/
   - title: "SDG"
-    url: /conferences/
+    url: /sdg/
   

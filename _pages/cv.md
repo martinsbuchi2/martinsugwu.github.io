@@ -50,7 +50,7 @@ Federal Government Scholarship, Undergraduate Scholarship
 MTN Foundation Scholarship, Undergraduate Scholarship
 
 
-### Volunteering
+### Volunteering, Community Service & Outreach
 
 * `2022`
 Energize Conference (GIZ Renewable Energy Career Fair)
@@ -66,12 +66,13 @@ World Environment Day Conference
 * `2024 – date`
 [EO Africa Community](https://www.eoafrica-rd.org/eo-africa-community/) - African Framework for Research Innovation, Communities and Applications in Earth Observation
 
-* 2024 – date
+* `2024 – date`
 [ESRI Young Professionals Network (YPN)](https://www.esri.com/en-us/about/ypn/overview)
 
 * `2023 – date`
 [ALX Africa and The ROOM Fellowship](https://www.alxafrica.com/alumni-community/)
-
+* `2023 – date`
+Student Energy Fellowship
 * `2019 – date`
 [Tony Elumelu Foundation (TEF)](https://tefconnect.com/)
 
