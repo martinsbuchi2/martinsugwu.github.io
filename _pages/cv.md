@@ -7,7 +7,7 @@ classes: wide
 layout: single
 header:
     overlay_image: /assets/images/header_photo_small.jpg
-    caption: [Download CV](https://drive.google.com/file/d/1S4PDDCBdvrT4kBzp_Dz2IvCAD5PtqZwx/view?usp=sharing)
+    caption: Checkout my CV!
 ---
 ### [Download CV](https://drive.google.com/file/d/1S4PDDCBdvrT4kBzp_Dz2IvCAD5PtqZwx/view?usp=sharing)
 
