@@ -31,7 +31,7 @@ feature_row2:
 
 feature_row3:
   - image_path: assets/images/crop_irrigation.jpg
-    title: "Forecasting crop yields"
+    title: "Achievements at the REA during my Time as TA to Executive Director, Playing Key Role in Project Planning"
     excerpt: >
         My work has resulted in significant cost savings for Nigeria's energy sector, particularly by leveraging satellite remote sensing, GIS, AI and machine learning to implement optimized, least-cost geospatial solutions for electrification of underserved and unserved communities. Since joining the Rural Electrification Agency (REA) as a Technical Advisor on Geodata Analysis, my work has been supported by various EO technologies across multiple areas, including the planning, monitoring, and evaluation (M&E) of various renewable energy projects. This support is key in the deployment of 56 solar mini-grids (14 MW), 6 EV charging stations, 497,000 solar home systems, and 35,000 solar streetlights, extending the national grid by 2,000 km and benefiting 1.5 million people. <br /> 
         <br /> 
