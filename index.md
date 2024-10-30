@@ -5,7 +5,7 @@ layout: single
 classes: wide
 header:
     overlay_image: /assets/images/header_photo_small.jpg
-    caption: Welcome to my page 
+    caption: Jabi Lake, Abuja, Nigeria 
 excerpt: ''
 ---
 

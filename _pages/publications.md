@@ -6,7 +6,7 @@ type: page
 classes: wide
 layout: single
 header:
-    overlay_image: /assets/images/header_photo.jpeg
+    overlay_image: /assets/images/header_photo1.jpeg
     caption: Greak Smoky National Park
 ---
 ## Python

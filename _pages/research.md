@@ -4,7 +4,7 @@ author_profile: false
 type: page
 classes: wide
 layout: single
-title: "Projects"
+title: "Research & Projects"
 header:
     overlay_image: /assets/images/research.jpg
     caption: Otamiri River
