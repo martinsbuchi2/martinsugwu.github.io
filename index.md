@@ -1,5 +1,5 @@
 ---
-title: "Hello World! 😉✌"
+title: "Hello!"
 author_profile: true
 layout: single
 classes: wide
