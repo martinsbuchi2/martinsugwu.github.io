@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Martins Ugwu"
   avatar : "/assets/images/profile_photo.JPG"
-  bio    : "EO*GIS Software Engineering <br />   <br /> 📍Nigeria"
+  bio    : "EO*GIS Software Engineering <br />   <br /> SDG 7 & 13 <br />  <br /> 📍Nigeria"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
