@@ -37,7 +37,7 @@ Research Intern, [National Space Research and Development Agency](https://centra
 ### Grants and Awards
 
 `2019`
-Tony Elumelun Foundation, TEF Entrepreurship Programme
+[Tony Elumelun Foundation](https://tefconnect.com/), TEF Entrepreurship Programme
 
 `2017`
 Enugu Scholarship Award
@@ -48,4 +48,35 @@ Federal Government Scholarship, Undergraduate Scholarship
 `2013 - 2015`
 MTN Foundation Scholarship, Undergraduate Scholarship
 
+
+### Volunteering
+
+`2022`
+Energize Conference (GIZ Renewable Energy Career Fair)
+
+`2017 - date`
+GIS Day Conference (NASRDA)
+
+`2017 - date`
+World Environment Day Conference
+
+### Networks AND Membership
+
+`2024 – date`
+[EO Africa Community](https://www.eoafrica-rd.org/eo-africa-community/) - African Framework for Research Innovation, Communities and Applications in Earth Observation
+
+2024 – date
+[ESRI Young Professionals Network (YPN)](https://www.esri.com/en-us/about/ypn/overview)
+
+`2023 – date`
+[ALX Africa and The ROOM Fellowship](https://www.alxafrica.com/alumni-community/)
+
+`2019 – date`
+[Tony Elumelu Foundation (TEF)](https://tefconnect.com/)
+
+`2019 – date`
+[The Young African Leaders Initiative (YALI)](https://yaliwestafrica.net/rlc/), Regional Leadership Center, West Africa - Accra
+
+`2016 – date`
+[Geo-Information Society of Nigeria (GEOSON)](https://geoson.ng/become-a-member/)
 
