@@ -13,8 +13,8 @@ I’m experienced Remote Sensing, GIS, and full-stack software developer, with a
 
 I am eager to further my career through a fully funded scholarship, aiming to deepen my expertise in geospatial technology and Earth observation while focusing on applying programming tools to enhance analytical processes and operational efficiency. 
 
-### Conferences Attended & Involvements in SDG 7 & 13 Related Activities
-
+### Conferences, Courses & Training
+### See [the Associated Certificates & Recognitions](https://drive.google.com/file/d/1RHp71xfsW_uHDJtACXqliOICnyUUf80X/view?usp=sharing)
  **`2024:`**
 
 * **November - December:** Excited to enroll for **Cloud Computing and algorithms for EO analyses**. This **[EO Africa (Research & Development Facility)](https://www.eoafrica-rd.org/)** course will provide hands-on experience with cloud computing platforms and significantly improve my ability to handle large-scale EO datasets and enhance data-driven decision-making.
