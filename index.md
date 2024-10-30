@@ -1,11 +1,11 @@
 ---
-title: "Hello!"
+title: "Hello World! 😉✌"
 author_profile: true
 layout: single
 classes: wide
 header:
     overlay_image: /assets/images/header_photo_small.jpg
-    caption: Welcome to my page 😉✌ 
+    caption: Welcome to my page 
 excerpt: ''
 ---
 

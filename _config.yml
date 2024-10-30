@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Martins Ugwu"
   avatar : "/assets/images/profile_photo.JPG"
-  bio    : "EO*GIS || GeoAI || Software Engineering"
+  bio    : "EO*GIS | GeoAI | <br /> Software Engineering"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
