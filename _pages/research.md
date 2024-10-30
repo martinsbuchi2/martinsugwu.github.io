@@ -4,16 +4,18 @@ author_profile: false
 type: page
 classes: wide
 layout: single
-title: "Research"
+title: "Projects"
 header:
     overlay_image: /assets/images/header_photo_small.jpg
-    caption: Greak Smoky National Park
+    caption: My Works
 
 feature_row1:
   - image_path: assets/images/photosynthesis_CAS.png
-    title: "Machine Learning Upscaling of Terrestrial Carbon Fluxes"
+    title: "Earth Observation in Electrification"
     excerpt: >
-        **Photosynthesis** constitutes the largest yet most uncertain flux in the terrestrial carbon cycle. Ecosystem-level photosynthesis, often termed as Gross Primary Productivity (GPP), can be measured from networks of eddy covariance flux towers. Flux sites, however, are only sparsely and evenly distributed, and thus unable to inform the spatial and temporal dynamics of GPP at the global scale. Here we combine machine learning and physical constraints to upscale GPP measurements from flux tower sites to wall-to-wall global maps. We aim to reconstruct the temporal GPP dynamics induced by both climate (such as CO2) and land surface changes. <br />
+        <div style="background-color: ; padding: 10px;"> My work
+has resulted in significant cost savings for Nigeria's energy sector, particularly by leveraging satellite remote sensing, GIS, AI and machine learning to implement optimized, least-cost geospatial solutions for electrification of underserved and unserved communities. Since joining the Rural Electrification Agency (REA) as a Technical Advisor on Geodata Analysis, my work has been supported by various EO technologies across multiple areas, including the planning, monitoring, and evaluation (M&E) of various renewable energy projects. This support is key in the deployment of 56 solar mini-grids (14 MW), 6 EV charging stations, 497,000 solar home systems, and 35,000 solar streetlights, extending the national grid by 2,000 km and benefiting 1.5 million people.
+ </div> <br />
         <br />
         **Kang, Y.**, Gaber, M., Bassiouni, M., Lu, X., and Keenan, T. (2023): CEDAR-GPP: spatiotemporally upscaled estimates of gross primary productivity incorporating CO2 fertilization, Earth Syst. Sci. Data Discuss. [preprint](https://doi.org/10.5194/essd-2023-337), in review, 2023.   <br />
         Gaber, M., **Kang, Y.**, Schurgers, G., and Keenan, T. (2023): Using automated machine learning for the upscaling of gross primary productivity, Biogeosciences Discuss. [preprint](https://doi.org/10.5194/bg-2023-141), in review, 2023.  <br />
