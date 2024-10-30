@@ -6,7 +6,7 @@ type: page
 classes: wide
 layout: single
 header:
-    overlay_image: /assets/images/Picture1.jpg
+    overlay_image: /assets/images/research.jpg
     caption: 2021 GIS Day Celebration!
 ---
 ### [See Associated Certificates & Recognitions](https://drive.google.com/file/d/1RHp71xfsW_uHDJtACXqliOICnyUUf80X/view?usp=sharing)
