@@ -28,6 +28,7 @@ feature_row2:
     btn_label: "Landsat-LAI GEE code"
     btn_class: "btn--primary"
 
+
 feature_row3:
   - image_path: assets/images/crop_irrigation.jpg
     title: "Forecasting crop yields"
@@ -43,4 +44,6 @@ feature_row3:
 
 {% include feature_row id="feature_row1" type="left" %}  
 {% include feature_row id="feature_row2" type="left" %}  
+
+## EO | GIS | Electrification
 {% include feature_row id="feature_row3" type="left" %}
