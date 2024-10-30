@@ -21,62 +21,62 @@ B. Tech. in Environment Technology, Federal University of Technology Owerri
 `2023-present`
 Technical Advisor on EO & GIS Analysis, Office of the Executive Director, Technical Services, [Rural Electrification Agency of Nigeria](https://rea.gov.ng/) | `Abuja, Nigeria`
 
-`2022-2023`
+* `2022-2023`
 National Expert - Geodata Consultant, [INTEGRATION Consulting Group](https://integration.org/environment-energy/) | `Remote`
 
-`2019-2022`
+* `2019-2022`
 GIS Instructor, [Gpro Group](https://goldenpro.group/) | `Abuja, Nigeria`
 
-`2018-2019`
+* `2018-2019`
 Graduate Intern, [Nasarawa Urban Development Board](https://nasarawastate.gov.ng/nasarawa-state-urban-development-board/) | `Nasarawa, Nigeria`
 
-`2017`
+* `2017`
 Research Intern, [National Space Research and Development Agency](https://central.nasrda.gov.ng/) | `Abuja, Nigeria`
 
 
 ### Grants and Awards
 
-`2019`
+* `2019`
 [Tony Elumelun Foundation](https://tefconnect.com/), TEF Entrepreurship Programme
 
-`2017`
+* `2017`
 Enugu Scholarship Award
 
-`2013 - 2016`
+* `2013 - 2016`
 Federal Government Scholarship, Undergraduate Scholarship
 
-`2013 - 2015`
+* `2013 - 2015`
 MTN Foundation Scholarship, Undergraduate Scholarship
 
 
 ### Volunteering
 
-`2022`
+* `2022`
 Energize Conference (GIZ Renewable Energy Career Fair)
 
-`2017 - date`
+* `2017 - date`
 GIS Day Conference (NASRDA)
 
-`2017 - date`
+* `2017 - date`
 World Environment Day Conference
 
 ### Networks and Membership
 
-`2024 – date`
+* `2024 – date`
 [EO Africa Community](https://www.eoafrica-rd.org/eo-africa-community/) - African Framework for Research Innovation, Communities and Applications in Earth Observation
 
-2024 – date
+* 2024 – date
 [ESRI Young Professionals Network (YPN)](https://www.esri.com/en-us/about/ypn/overview)
 
-`2023 – date`
+* `2023 – date`
 [ALX Africa and The ROOM Fellowship](https://www.alxafrica.com/alumni-community/)
 
-`2019 – date`
+* `2019 – date`
 [Tony Elumelu Foundation (TEF)](https://tefconnect.com/)
 
-`2019 – date`
+* `2019 – date`
 [The Young African Leaders Initiative (YALI)](https://yaliwestafrica.net/rlc/), Regional Leadership Center, West Africa - Accra
 
-`2016 – date`
+* `2016 – date`
 [Geo-Information Society of Nigeria (GEOSON)](https://geoson.ng/become-a-member/)
 
