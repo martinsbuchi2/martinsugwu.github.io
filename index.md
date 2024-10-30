@@ -22,14 +22,15 @@ has resulted in significant cost savings for Nigeria's energy sector, particular
 * **November - December:** Excited to enroll for **Cloud Computing and algorithms for EO analyses**. This **[EO Africa (Research & Development Facility)](https://www.eoafrica-rd.org/)** course will provide hands-on experience with cloud computing platforms and significantly improve my ability to handle large-scale EO datasets and enhance data-driven decision-making.
 * **September:** Participated in the **2024 Environmental Conference** tagged: *Harmony in Sustainability, Nurturing Environmental Visionaries*.
 * **June:** Participated and Successfully Completed the **"Uncertainty Analysis for Energy System Studies"** course, held by **EIT HEI Initiative** and Organized by the **Technical University of Denmark**.
+* **June:** The **United Nations Environment Programme (UNEP)** recognition for joining the **#GenerationRestoration** movement and making **World Environment Day 2024** a huge success.
 
 **`2023`**
 
 * **December:** Completed the 13-week **Global Youth Climate Training**, through the **Global Youth Coalition**
-* **November:** Completed the **VIDA** software training on **Nigeria Energy Geospatial Platform** for **Distributed Access to Renewable Energy Scale-up (DARES)**.
-* **November:** **NASRDA GIS Day Celebration**, Theme: *GIS for Executives*
+* **November:** Completed the **VIDA** software training on **Nigeria Energy Geospatial Platform** for *Distributed Access to Renewable Energy Scale-up (DARES)*.
+* **November:** NASRDA 2023 **GIS Day Celebration**, Theme: *GIS for Executives*
 * **October:** Joined the Sixth Edition of **The Social Town Talk Series** - **International Carbon Conference** supported by **Neem Software**.
-
+* **September:** Joined 8th edition of **International Youth Conference (IYC)** held in hybrid format in **New York City, USA**. under the theme *"Empowering Youth to Achieve the Sustainable Development Goals"* in partnership with **UN-Habitat and Global Civil Society Organizations**.
 
 
 
