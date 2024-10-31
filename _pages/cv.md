@@ -9,7 +9,7 @@ header:
     overlay_image: /assets/images/header_photo_small.jpg
     caption: Checkout my CV!
 ---
-### [Download CV](https://drive.google.com/file/d/1nmYhALcjy6R9zKAfx3UoRwfOyfzvxdX6/view?usp=sharing)
+## [Download CV](https://drive.google.com/file/d/1nmYhALcjy6R9zKAfx3UoRwfOyfzvxdX6/view?usp=sharing)
 
 ### Education
 
