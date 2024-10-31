@@ -7,7 +7,7 @@ classes: wide
 layout: single
 header:
     overlay_image: /assets/images/conference.jpg
-    caption: Nigeria Geospatial Platform Conference
+    caption: 
 
 
 feature_row1:
