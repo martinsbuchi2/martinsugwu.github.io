@@ -19,7 +19,7 @@ B. Tech. in Environment Technology, Federal University of Technology Owerri
 
 ### Profesional Experience
 
-`2023-present`
+* `2023-present`
 Technical Advisor on EO & GIS Analysis, Office of the Executive Director, Technical Services, [Rural Electrification Agency of Nigeria](https://rea.gov.ng/) | `Abuja, Nigeria`
 
 * `2022-2023`

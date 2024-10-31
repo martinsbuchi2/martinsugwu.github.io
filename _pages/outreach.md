@@ -20,25 +20,20 @@ feature_row1:
 
 feature_row2:
   - image_path: assets/images/advantage.jpg
-    title: "GIS Approach to Site Suitability for Large-Scale Solar Farms in Osun East District, Nigeria"
+    title: "2017 World Environment Day Celebration at FUTO"
     excerpt: >
-        This study focuses on identifying **optimal sites for large-scale solar farms** within the **Osun East District**, Nigeria. It employs **GIS and Analytic Hierarchical Process (AHP)** to perform suitability analysis, identifying the most favorable locations based on **environmental, social, and technical criteria**. The study reveals that approximately **2.6%** of the total area is highly suitable, potentially generating **3,470 MW** of electricity, while moderately suitable areas could yield an additional **28,000 MW**. These findings highlight the significant renewable energy potential in Osun East.. <br />
+        Building on the success of **TAG 17**, my team took on the responsibility of organizing the **World Environment Day** celebration. During the event, we led several community service initiatives, including **tree-planting exercise** within the FUTO environment, **clean-up campaign** in parks, drainages, and the Otamiri River within the school environment. We also arranged **panel discussions** with experts on relevant topics on **climate change and environmental conservation**. <br />
         <br />
-        See **[Poster Presentation](https://drive.google.com/file/d/1vHLr9sQ9xq16wzPUQyQrtkBsTeU486GB/view?usp=sharing):**  **NASRDA 2018 GIS Day**, themed: *"Geospatial Technologies for National Development"*   
-    url: https://github.com/yanghuikang/Landsat-LAI
-    btn_label: "Landsat-LAI GEE code"
-    btn_class: "btn--primary"
+        See **[Poster Presentation](https://drive.google.com/file/d/125UMIJKCs6rYyxgpQzGqWOI_snqkqVII/view?usp=sharing):** **2021 World Environment Day Celebration**, themed: *"Ecosystem Restoration"*   
 
 
 feature_row3:
-  - image_path: assets/images/crop_irrigation.jpg
-    title: "Achievements at the REA during my Time as TA to Executive Director, Playing Key Role in Project Planning"
+  - image_path: assets/images/wed2017.jpg
+    title: "GIS Day Conference at the National Space Research and Development Agency (NASRDA)"
     excerpt: >
-        My work has resulted in significant cost savings for Nigeria's energy sector, particularly by leveraging satellite remote sensing, GIS, AI and machine learning to implement optimized, least-cost geospatial solutions for electrification of underserved and unserved communities. Since joining the Rural Electrification Agency (REA) as a Technical Advisor on Geodata Analysis, my work has been supported by various EO technologies across multiple areas, including the planning, monitoring, and evaluation (M&E) of various renewable energy projects. This support is key in the deployment of 56 solar mini-grids (14 MW), 6 EV charging stations, 497,000 solar home systems, and 35,000 solar streetlights, extending the national grid by 2,000 km and benefiting 1.5 million people. <br /> 
+        Like the annual **World Environemnt Day** Celebration, the **GIS Day** Celebration also provide me the opportunity to volunteer and give back to the society. Notably, the 2018 edition enabled me to participate in **mapping projects** that contributed to the Kuje community's well-being. I co-hosted an **Introductory GIS workshops for beginners**, and visited the **University of Abuja** with a team of GIS Experts to give **presentations on GIS-related topics**. <br /> 
         <br /> 
-        **Kang, Y.**, & Özdoğan, M. (2019). Field-level crop yield mapping with Landsat using a hierarchical data assimilation approach. *Remote Sensing of Environment*, *228*, 144–163. [link](https://doi.org/10.1016/j.rse.2019.04.005) <br />
-        **Kang, Y.**, Ozdogan, M., Zhu, X., Ye, Z., Hain, C., & Anderson, M. (2020). Comparative assessment of environmental variables and machine learning algorithms for maize yield prediction in the US Midwest. *Environmental Research Letters*, *15*(6). [link](https://doi.org/10.1088/1748-9326/ab7df9) <br/> 
-        Yuchi, M., Zhang, Z., **Kang, Y.**, & Ozdogan, M. (2021). Corn yield prediction and uncertainty analysis based on remotely sensed variables using a Bayesian neural network approach. *Remote Sensing of Environment*, *258*, 112408. [link](https://doi.org/10.1016/j.rse.2021.112408)    
+        See **[Poster Presentation](https://drive.google.com/file/d/1vHLr9sQ9xq16wzPUQyQrtkBsTeU486GB/view?usp=sharing):**  **NASRDA 2018 GIS Day**, themed: *"Geospatial Technologies for National Development"*    
 ---
 
 ## Outreach & Community Services
