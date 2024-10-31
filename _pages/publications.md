@@ -1,7 +1,7 @@
 ---
 permalink: /techstack/
 title: "Tech Stack"
-author_profile: false
+author_profile: true
 type: page
 classes: wide
 layout: single

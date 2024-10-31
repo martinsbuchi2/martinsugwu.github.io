@@ -1,7 +1,7 @@
 ---
 permalink: /outreach/
 title: "Outreach"
-author_profile: false
+author_profile: true
 type: page
 classes: wide
 layout: single
@@ -35,13 +35,9 @@ feature_row3:
         <br /> 
         See [Poster Presentation](https://drive.google.com/file/d/1vHLr9sQ9xq16wzPUQyQrtkBsTeU486GB/view?usp=sharing):  NASRDA 2018 GIS Day, themed: "Geospatial Technologies for National Development"    
 ---
-
-## Outreach & Community Services
-
 {% include feature_row id="feature_row1" type="left" %}  
 {% include feature_row id="feature_row2" type="left" %}  
 {% include feature_row id="feature_row3" type="left" %}
-
 ---
 
 
