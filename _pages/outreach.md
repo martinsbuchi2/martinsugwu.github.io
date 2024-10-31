@@ -1,6 +1,6 @@
 ---
 permalink: /outreach/
-title: "    "
+title: "Outreach"
 author_profile: false
 type: page
 classes: wide
