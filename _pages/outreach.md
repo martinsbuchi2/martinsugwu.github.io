@@ -1,6 +1,6 @@
 ---
 permalink: /outreach/
-title: "Outreach & Community Services"
+title: ""
 author_profile: false
 type: page
 classes: wide
@@ -41,12 +41,10 @@ feature_row3:
         Yuchi, M., Zhang, Z., **Kang, Y.**, & Ozdogan, M. (2021). Corn yield prediction and uncertainty analysis based on remotely sensed variables using a Bayesian neural network approach. *Remote Sensing of Environment*, *258*, 112408. [link](https://doi.org/10.1016/j.rse.2021.112408)    
 ---
 
-## Research Projects
+## Outreach & Community Services
 
 {% include feature_row id="feature_row1" type="left" %}  
 {% include feature_row id="feature_row2" type="left" %}  
-
-## EO | GIS | Electrification
 {% include feature_row id="feature_row3" type="left" %}
 
 ---
