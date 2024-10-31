@@ -11,7 +11,7 @@ header:
 
 
 feature_row1:
-  - image_path: assets/images/advantage.jpg
+  - image_path: assets/images/outreachh.jpg
     title: "The Advantage Series"
     excerpt: >
         This study examines the **impact of land use and land cover (LULC) changes on soil erosion rates within the Otamiri watershed** spanning across **Owerri to Rivers States, Southern, Nigeria**. Using the **Revised Universal Soil Loss Equation (RUSLE) integrated with remote sensing and GIS technologies**, the research tracks LULC changes between **1996** and **2016**. The findings indicate significant **deforestation and land conversion**, leading to increased **soil erosion**. This necessitates the **implementation of sustainable land management practices** to mitigate further degradation. <br />
