@@ -18,7 +18,7 @@ feature_row1:
         See **[Poster Presentation](https://drive.google.com/file/d/125UMIJKCs6rYyxgpQzGqWOI_snqkqVII/view?usp=sharing):** **2021 World Environment Day Celebration**, themed: *"Ecosystem Restoration"*
 
 feature_row2:
-  - image_path: assets/images/LAI_StockSnap_OOP3TR13DA.jpg
+  - image_path: assets/images/crop_irrigation.jpg
     title: "GIS Approach to Site Suitability for Large-Scale Solar Farms in Osun East District, Nigeria"
     excerpt: >
         This study focuses on identifying **optimal sites for large-scale solar farms** within the **Osun East District**, Nigeria. It employs **GIS and Analytic Hierarchical Process (AHP)** to perform suitability analysis, identifying the most favorable locations based on **environmental, social, and technical criteria**. The study reveals that approximately **2.6%** of the total area is highly suitable, potentially generating **3,470 MW** of electricity, while moderately suitable areas could yield an additional **28,000 MW**. These findings highlight the significant renewable energy potential in Osun East.. <br />
@@ -30,7 +30,7 @@ feature_row2:
 
 
 feature_row3:
-  - image_path: assets/images/crop_irrigation.jpg
+  - image_path: assets/images/LAI_StockSnap_OOP3TR13DA.jpg
     title: "Achievements at the REA during my Time as TA to Executive Director, Playing Key Role in Project Planning"
     excerpt: >
         My work has resulted in significant cost savings for Nigeria's energy sector, particularly by leveraging satellite remote sensing, GIS, AI and machine learning to implement optimized, least-cost geospatial solutions for electrification of underserved and unserved communities. Since joining the Rural Electrification Agency (REA) as a Technical Advisor on Geodata Analysis, my work has been supported by various EO technologies across multiple areas, including the planning, monitoring, and evaluation (M&E) of various renewable energy projects. This support is key in the deployment of 56 solar mini-grids (14 MW), 6 EV charging stations, 497,000 solar home systems, and 35,000 solar streetlights, extending the national grid by 2,000 km and benefiting 1.5 million people. <br /> 
