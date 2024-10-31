@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Martins I. Ugwu"
   avatar : "/assets/images/profile_photo.JPG"
-  bio    : "Remote Sensing, Earth Observation & GIS Services <br />   <br /> SDG 7 & 13 <br />  <br /> 📍Nigeria I"
+  bio    : "Remote Sensing, Earth Observation & GIS Services <br />   <br /> SDG 7 & 13 <br />  <br /> 📍Nigeria | "
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
