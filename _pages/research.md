@@ -15,7 +15,7 @@ feature_row1:
     excerpt: >
         This study examines the **impact of land use and land cover (LULC) changes on soil erosion rates within the Otamiri watershed** spanning across **Owerri to Rivers States, Southern, Nigeria**. Using the **Revised Universal Soil Loss Equation (RUSLE) integrated with remote sensing and GIS technologies**, the research tracks LULC changes between **1996** and **2016**. The findings indicate significant **deforestation and land conversion**, leading to increased **soil erosion**. This necessitates the **implementation of sustainable land management practices** to mitigate further degradation. <br />
         <br />
-        See **[Poster Presentation](https://drive.google.com/file/d/125UMIJKCs6rYyxgpQzGqWOI_snqkqVII/view?usp=sharing):** **2021 World Environment Day Celebration**, themed: *"Ecosystem Restoration"* |
+        See **[Poster Presentation](https://drive.google.com/file/d/125UMIJKCs6rYyxgpQzGqWOI_snqkqVII/view?usp=sharing):** **2021 World Environment Day Celebration**, themed: *"Ecosystem Restoration"*
 
 feature_row2:
   - image_path: assets/images/LAI_StockSnap_OOP3TR13DA.jpg
@@ -23,7 +23,7 @@ feature_row2:
     excerpt: >
         This study focuses on identifying **optimal sites for large-scale solar farms** within the **Osun East District**, Nigeria. It employs **GIS and Analytic Hierarchical Process (AHP)** to perform suitability analysis, identifying the most favorable locations based on **environmental, social, and technical criteria**. The study reveals that approximately **2.6%** of the total area is highly suitable, potentially generating **3,470 MW** of electricity, while moderately suitable areas could yield an additional **28,000 MW**. These findings highlight the significant renewable energy potential in Osun East.. <br />
         <br />
-        See **[Poster Presentation](https://drive.google.com/file/d/1vHLr9sQ9xq16wzPUQyQrtkBsTeU486GB/view?usp=sharing):**  **NASRDA 2018 GIS Day**, themed: *"Geospatial Technologies for National Development"*  | 
+        See **[Poster Presentation](https://drive.google.com/file/d/1vHLr9sQ9xq16wzPUQyQrtkBsTeU486GB/view?usp=sharing):**  **NASRDA 2018 GIS Day**, themed: *"Geospatial Technologies for National Development"*  
     url: https://github.com/yanghuikang/Landsat-LAI
     btn_label: "Landsat-LAI GEE code"
     btn_class: "btn--primary"
@@ -37,7 +37,7 @@ feature_row3:
         <br /> 
         **Kang, Y.**, & Özdoğan, M. (2019). Field-level crop yield mapping with Landsat using a hierarchical data assimilation approach. *Remote Sensing of Environment*, *228*, 144–163. [link](https://doi.org/10.1016/j.rse.2019.04.005) <br />
         **Kang, Y.**, Ozdogan, M., Zhu, X., Ye, Z., Hain, C., & Anderson, M. (2020). Comparative assessment of environmental variables and machine learning algorithms for maize yield prediction in the US Midwest. *Environmental Research Letters*, *15*(6). [link](https://doi.org/10.1088/1748-9326/ab7df9) <br/> 
-        Yuchi, M., Zhang, Z., **Kang, Y.**, & Ozdogan, M. (2021). Corn yield prediction and uncertainty analysis based on remotely sensed variables using a Bayesian neural network approach. *Remote Sensing of Environment*, *258*, 112408. [link](https://doi.org/10.1016/j.rse.2021.112408) |  
+        Yuchi, M., Zhang, Z., **Kang, Y.**, & Ozdogan, M. (2021). Corn yield prediction and uncertainty analysis based on remotely sensed variables using a Bayesian neural network approach. *Remote Sensing of Environment*, *258*, 112408. [link](https://doi.org/10.1016/j.rse.2021.112408)   
 ---
 
 ## Research Projects
