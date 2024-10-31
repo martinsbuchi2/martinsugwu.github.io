@@ -9,14 +9,14 @@ header:
 excerpt: ''
 ---
 
-I’m experienced Remote Sensing, GIS, and full-stack software developer, with a proven track record of leveraging Copernicus data and EO*GI services to support informed decision-making. 
+I’m experienced Remote Sensing, GIS, and full-stack software developer, with a proven track record of leveraging Copernicus data and Earth Observation and GIS services to support informed decision-making. 
 I am eager to further my career through a fully funded scholarship, aiming to deepen my expertise in geospatial technology and Earth observation while focusing on applying programming tools to enhance analytical processes and operational efficiency. 
 
 ### Conferences, Courses & Training
 ### See [the Associated Certificates & Recognitions](https://drive.google.com/file/d/1RHp71xfsW_uHDJtACXqliOICnyUUf80X/view?usp=sharing)
  **`2024:`**
 
-* **November - December:** Excited to enroll for Cloud Computing and algorithms for EO analyses. This [EO Africa (Research & Development Facility)](https://www.eoafrica-rd.org/) course will provide hands-on experience with cloud computing platforms and significantly improve my ability to handle large-scale EO datasets and enhance data-driven decision-making.
+* **November - December:** Excited to enroll for Cloud Computing and Algorithms for EO analyses. This [EO Africa (Research & Development Facility)](https://www.eoafrica-rd.org/) course will provide hands-on experience with cloud computing platforms and significantly improve my ability to handle large-scale EO datasets and enhance data-driven decision-making.
 * **September:** Participated in the 2024 Environmental Conference tagged: *Harmony in Sustainability, Nurturing Environmental Visionaries*.
 * **June:** Participated and Successfully Completed the "Uncertainty Analysis for Energy System Studies" course, held by EIT HEI Initiative and Organized by the Technical University of Denmark.
 * **June:** The United Nations Environment Programme (UNEP) recognition for joining the **#GenerationRestoration** movement and making World Environment Day 2024 a huge success.
