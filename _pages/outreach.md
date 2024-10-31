@@ -31,7 +31,7 @@ feature_row3:
   - image_path: assets/images/wed2017.jpg
     title: "GIS Day Conference at the National Space Research and Development Agency (NASRDA)"
     excerpt: >
-        Like the annual **World Environemnt Day** Celebration, the **GIS Day** Celebration also provide me the opportunity to volunteer and give back to the society. Notably, the 2018 edition enabled me to participate in **mapping projects** that contributed to the Kuje community's well-being. I co-hosted an **Introductory GIS workshops for beginners**, and visited the **University of Abuja** with a team of GIS Experts to give **presentations on GIS-related topics**. <br /> 
+        Like the annual **World Environment Day** celebration, **GIS Day** also provides me with valuable opportunities to involve in **community services**, usually in the form of **volunteering**. Each year, it brings unique chances to grow, learn, and evolve. Notably, the **2018 edition** allowed me to participate in **mapping projects** that supported the well-being of the **Kuje community in Abuja**. I also co-hosted an **Introductory GIS Workshop** for beginners and joined a team of GIS experts on a visit to the **University of Abuja**, where we presented on various GIS-related topics. <br /> 
         <br /> 
         See **[Poster Presentation](https://drive.google.com/file/d/1vHLr9sQ9xq16wzPUQyQrtkBsTeU486GB/view?usp=sharing):**  **NASRDA 2018 GIS Day**, themed: *"Geospatial Technologies for National Development"*    
 ---

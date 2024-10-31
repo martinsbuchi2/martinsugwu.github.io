@@ -25,7 +25,6 @@ feature_row2:
         <br />
         See **[Poster Presentation](https://drive.google.com/file/d/1vHLr9sQ9xq16wzPUQyQrtkBsTeU486GB/view?usp=sharing):**  **NASRDA 2018 GIS Day**, themed: *"Geospatial Technologies for National Development"*  
 
-
 feature_row3:
   - image_path: assets/images/LAI_StockSnap_OOP3TR13DA.jpg
     title: "Achievements at the REA during my Time as TA to Executive Director, Playing Key Role in Project Planning"
@@ -40,10 +39,8 @@ feature_row3:
 
 {% include feature_row id="feature_row1" type="left" %}  
 {% include feature_row id="feature_row2" type="left" %}  
-
 ## EO | GIS | Electrification
 {% include feature_row id="feature_row3" type="left" %}
-
 ## Links to My Featured Presentations:
 * **[REA Three-Year (2020 to 2022) Impact Snapshot](https://rea.gov.ng/rea-impact-report-3-year-impact-snapshot/)**
 * **[28th Edition of the Conference of Parties (COP 28)](https://drive.google.com/file/d/1DEagcdNTOGmvjZURuTGazm_llV-kZCqK/view?usp=sharing)**
