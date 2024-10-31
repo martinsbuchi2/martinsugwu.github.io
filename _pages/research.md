@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-author_profile: true
+author_profile: false
 type: page
 classes: wide
 layout: single
