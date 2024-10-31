@@ -24,20 +24,18 @@ feature_row2:
         This study focuses on identifying **optimal sites for large-scale solar farms** within the **Osun East District**, Nigeria. It employs **GIS and Analytic Hierarchical Process (AHP)** to perform suitability analysis, identifying the most favorable locations based on **environmental, social, and technical criteria**. The study reveals that approximately **2.6%** of the total area is highly suitable, potentially generating **3,470 MW** of electricity, while moderately suitable areas could yield an additional **28,000 MW**. These findings highlight the significant renewable energy potential in Osun East.. <br />
         <br />
         See **[Poster Presentation](https://drive.google.com/file/d/1vHLr9sQ9xq16wzPUQyQrtkBsTeU486GB/view?usp=sharing):**  **NASRDA 2018 GIS Day**, themed: *"Geospatial Technologies for National Development"*  
-    url: https://github.com/yanghuikang/Landsat-LAI
-    btn_label: "Landsat-LAI GEE code"
-    btn_class: "btn--primary"
 
 
 feature_row3:
   - image_path: assets/images/LAI_StockSnap_OOP3TR13DA.jpg
     title: "Achievements at the REA during my Time as TA to Executive Director, Playing Key Role in Project Planning"
     excerpt: >
-        My work has resulted in significant cost savings for Nigeria's energy sector, particularly by leveraging satellite remote sensing, GIS, AI and machine learning to implement optimized, least-cost geospatial solutions for electrification of underserved and unserved communities. Since joining the Rural Electrification Agency (REA) as a Technical Advisor on Geodata Analysis, my work has been supported by various EO technologies across multiple areas, including the planning, monitoring, and evaluation (M&E) of various renewable energy projects. This support is key in the deployment of 56 solar mini-grids (14 MW), 6 EV charging stations, 497,000 solar home systems, and 35,000 solar streetlights, extending the national grid by 2,000 km and benefiting 1.5 million people. <br /> 
+        Over the years, I have actively contributed to various geospatial projects demonstrating my expertise. Notably, while working as a **Geodata Analyst at INTEGRATION Consulting**, I contributed to the **Nigeria Energy Support Program (NESP)**, which is co-funded by the **EU** and **German BMZ**. In this role, I managed a nationwide data pipeline and played a key part in developing the **[Nigeria SE4ALL web map version 3.0](https://nigeriase4all.gov.ng/)** using React JS, MapLibre JS, and PostGIS, which visualized over 1,000,000 points of interest (POIs). My responsibilities included performing data quality checks, automating the processing of socio-economic data, and developing XLSForms with complex logic to ensure data quality during field surveys across 700+ off-grid settlements, all deployed via a custom Kobo server. Additionally, I set up an OpenStreetMap (OSM) wiki, wrote Python scripts for semi-automated data uploads, and created a QGIS plugin to automate Atlas generation, thereby streamlining the preparation of tools for nationwide electrification data collection. <br />  <br />  Also, since joining the **Rural Electrification Agency (REA)** as a **Technical Assistant on Geodata Analysis**, my work has been supported by various **EO technologies** across multiple areas, including the planning, monitoring, and evaluation (M&E) of various renewable energy projects. This support is key in the deployment of 56 solar mini-grids (14 MW), 6 EV charging stations, 497,000 solar home systems, and 35,000 solar streetlights, extending the national grid by 2,000 km and benefiting 1.5 million people. I also lead **capacity-building initiatives** through **data clinics, help desks, and training sessions**, guiding relevant stakeholders in the use of **ArcGIS, QGIS, VIDA, and other geospatial tools needed for electrification projects**. So, my work supports **energy access, socio-economic growth**, and **agricultural productivity**, demonstrating my commitment to leveraging **geospatial technologies** for **sustainable development**. <br /> 
         <br /> 
-        **Kang, Y.**, & Özdoğan, M. (2019). Field-level crop yield mapping with Landsat using a hierarchical data assimilation approach. *Remote Sensing of Environment*, *228*, 144–163. [link](https://doi.org/10.1016/j.rse.2019.04.005) <br />
-        **Kang, Y.**, Ozdogan, M., Zhu, X., Ye, Z., Hain, C., & Anderson, M. (2020). Comparative assessment of environmental variables and machine learning algorithms for maize yield prediction in the US Midwest. *Environmental Research Letters*, *15*(6). [link](https://doi.org/10.1088/1748-9326/ab7df9) <br/> 
-        Yuchi, M., Zhang, Z., **Kang, Y.**, & Ozdogan, M. (2021). Corn yield prediction and uncertainty analysis based on remotely sensed variables using a Bayesian neural network approach. *Remote Sensing of Environment*, *258*, 112408. [link](https://doi.org/10.1016/j.rse.2021.112408)   
+    url: https://github.com/yanghuikang/Landsat-LAI
+    btn_label: "REA Impact Report Since My Joining"
+    btn_class: "btn--primary"
+         
 ---
 
 ## Research Projects
@@ -47,3 +45,6 @@ feature_row3:
 
 ## EO | GIS | Electrification
 {% include feature_row id="feature_row3" type="left" %}
+
+## Important Links:
+* **[My Last 6 Months Appraisal](https://drive.google.com/file/d/1qLpKCO9touJwhKbNQxx0MdGmObRhNmp5/view?usp=sharing)**
