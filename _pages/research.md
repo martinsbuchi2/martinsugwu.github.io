@@ -32,8 +32,8 @@ feature_row3:
     excerpt: >
         Over the years, I have actively contributed to various geospatial projects demonstrating my expertise. Notably, while working as a **Geodata Analyst at INTEGRATION Consulting**, I contributed to the **Nigeria Energy Support Program (NESP)**, which is co-funded by the **EU** and **German BMZ**. In this role, I managed a nationwide data pipeline and played a key part in developing the **[Nigeria SE4ALL web map version 3.0](https://nigeriase4all.gov.ng/)** using React JS, MapLibre JS, and PostGIS, which visualized over 1,000,000 points of interest (POIs). My responsibilities included performing data quality checks, automating the processing of socio-economic data, and developing XLSForms with complex logic to ensure data quality during field surveys across 700+ off-grid settlements, all deployed via a custom Kobo server. Additionally, I set up an OpenStreetMap (OSM) wiki, wrote Python scripts for semi-automated data uploads, and created a QGIS plugin to automate Atlas generation, thereby streamlining the preparation of tools for nationwide electrification data collection. <br />  <br />  Also, since joining the **Rural Electrification Agency (REA)** as a **Technical Assistant on Geodata Analysis**, my work has been supported by various **EO technologies** across multiple areas, including the planning, monitoring, and evaluation (M&E) of various renewable energy projects. This support is key in the deployment of 56 solar mini-grids (14 MW), 6 EV charging stations, 497,000 solar home systems, and 35,000 solar streetlights, extending the national grid by 2,000 km and benefiting 1.5 million people. I also lead **capacity-building initiatives** through **data clinics, help desks, and training sessions**, guiding relevant stakeholders in the use of **ArcGIS, QGIS, VIDA, and other geospatial tools needed for electrification projects**. So, my work supports **energy access, socio-economic growth**, and **agricultural productivity**, demonstrating my commitment to leveraging **geospatial technologies** for **sustainable development**. <br /> 
         <br /> 
-    url: https://github.com/yanghuikang/Landsat-LAI
-    btn_label: "REA Impact Report Since My Joining"
+    url: https://rea.gov.ng/rea-impact-report-3-year-impact-snapshot/
+    btn_label: "Featured: REA Project Impact"
     btn_class: "btn--primary"
          
 ---
@@ -46,5 +46,8 @@ feature_row3:
 ## EO | GIS | Electrification
 {% include feature_row id="feature_row3" type="left" %}
 
-## Important Links:
+## Links to My Featured Presentations:
 * **[My Last 6 Months Appraisal](https://drive.google.com/file/d/1qLpKCO9touJwhKbNQxx0MdGmObRhNmp5/view?usp=sharing)**
+* **[REA 2023 Project Implementation Report](https://drive.google.com/file/d/1TypnDV6gpySLJJO7v4UANxrX-OarIkTx/view?usp=sharing)**
+* **[REA's Renewable Energy Innovations](https://drive.google.com/file/d/1CyjZ4Hgo7o6FToXpsAvS_HR0IfVkAb_x/view?usp=sharing)**
+
