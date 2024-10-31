@@ -16,7 +16,7 @@ feature_row1:
     excerpt: >
         My participation in the **YALI** (12-week leadership training) not only prepared me for life after school but also equipped me with the necessary knowledge to successfully co-convene **[The Advantage Group](https.//facebook.com/tag.com.ng)**, an organization formed with the vision of giving students and graduates a competitive edge that distinguishes them globally. Each year, we organize inspiring **outreaches, conferences and workshops** designed to equip students and graduates with essential knowledge and skills in various areas, including **academics, entrepreneurship, renewable energy, the environment, leadership, and career development**. The first edition, **TAG’17**, was organized by a team of ten under my direction and attracted approximately **500 participants**. To date, we have built a network of over **3,000 Nigerian students**. <br />
         <br />
-        Connect with us: **[Facebook](https.//facebook.com/tag.com.ng)** **[Instagram](https.//instagram.com/tag.com.ng)** 
+        Connect with us: **[Facebook](https://facebook.com/tag.com.ng/)** **[Instagram](https://instagram.com/tag.com.ng)** 
 
 feature_row2:
   - image_path: assets/images/advantage.jpg
