@@ -16,7 +16,6 @@ header:
 `2012 - 2017`
 B. Tech. in Environment Technology, Federal University of Technology Owerri
 
-
 ### Profesional Experience
 
 * `2023-present`
@@ -34,7 +33,6 @@ Graduate Intern, [Nasarawa Urban Development Board](https://nasarawastate.gov.ng
 * `2017`
 Research Intern, [National Space Research and Development Agency](https://central.nasrda.gov.ng/) | `Abuja, Nigeria`
 
-
 ### Grants and Awards
 
 * `2019`
@@ -48,7 +46,6 @@ Federal Government Scholarship, Undergraduate Scholarship
 
 * `2013 - 2015`
 MTN Foundation Scholarship, Undergraduate Scholarship
-
 
 ### Volunteering, Community Service & Outreach
 
