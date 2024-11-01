@@ -14,14 +14,14 @@ feature_row1:
     excerpt: >
         This study examines the impact of land use and land cover (LULC) changes on soil erosion rates within the Otamiri watershed spanning across Owerri to Rivers States, Southern, Nigeria. Using the Revised Universal Soil Loss Equation (RUSLE) integrated with remote sensing and GIS technologies, the research tracks LULC changes between 1996 and 2016. The findings indicate significant deforestation and land conversion, leading to increased soil erosion. This necessitates the implementation of sustainable land management practices to mitigate further degradation. <br />
         <br />
-        See [Poster Presentation](https://drive.google.com/file/d/125UMIJKCs6rYyxgpQzGqWOI_snqkqVII/view?usp=sharing): 2021 World Environment Day Celebration, themed: "Ecosystem Restoration"
+        See [Poster Presentation](https://drive.google.com/file/d/125UMIJKCs6rYyxgpQzGqWOI_snqkqVII/view?usp=sharing): 2021 World Environment Day Celebration, themed: *"Ecosystem Restoration"*
 feature_row2:
   - image_path: assets/images/crop_irrigation.jpg
     title: "GIS Approach to Site Suitability for Large-Scale Solar Farms in Osun East District, Nigeria"
     excerpt: >
         This study focuses on identifying optimal sites for large-scale solar farms within the Osun East District, Nigeria. It employs GIS and Analytic Hierarchical Process (AHP) to perform suitability analysis, identifying the most favorable locations based on environmental, social, and technical criteria. The study reveals that approximately 2.6% of the total area is highly suitable, potentially generating 3,470 MW of electricity, while moderately suitable areas could yield an additional 28,000 MW. These findings highlight the significant renewable energy potential in Osun East.. <br />
         <br />
-        See [Poster Presentation](https://drive.google.com/file/d/1vHLr9sQ9xq16wzPUQyQrtkBsTeU486GB/view?usp=sharing):  NASRDA 2018 GIS Day, themed: "Geospatial Technologies for National Development"
+        See [Poster Presentation](https://drive.google.com/file/d/1vHLr9sQ9xq16wzPUQyQrtkBsTeU486GB/view?usp=sharing):  NASRDA 2018 GIS Day, themed: *"Geospatial Technologies for National Development"*
 feature_row3:
   - image_path: assets/images/LAI_StockSnap_OOP3TR13DA.jpg
     title: "Achievements at the REA during my Time as TA to Executive Director, Playing Key Role in Project Planning"
