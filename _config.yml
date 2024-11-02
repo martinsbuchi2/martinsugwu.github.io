@@ -79,8 +79,8 @@ author:
       
 footer:
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+    - label: "DOWNLOAD CV"
+      icon: "fab fa-fw fa-download"
       url: "https://github.com/martinsbuchi2"
 
 defaults:
